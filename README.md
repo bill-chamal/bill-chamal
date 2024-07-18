@@ -27,6 +27,7 @@ I'm Bill, a passionate developer and technology enthusiast with a keen interest 
  - SQL
  - Algorithms
  - General Data Protection Regulation (GDPR) in EU
+ - ArchLinux
 
 ## ⚡ Fun Fact
 

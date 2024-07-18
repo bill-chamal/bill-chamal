@@ -1,16 +1,33 @@
-### Hi there 👋
+## About Me
 
-<!--
-**bill-chamal/bill-chamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 **Hi there!** 
 
-Here are some ideas to get you started:
+I'm Bill, a passionate developer and technology enthusiast with a keen interest in Networking, security, desktop dev and android dev. I love diving into new challenges, learning cutting-edge technologies, and collaborating on exciting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm Working On
+
+ - [ProjectGreen](https://github.com/bill-chamal/ProjectGreen): Recycle gamification and rewarding app.
+
+ - [Glossa](https://github.com/bill-chamal/Glossa): Glossa is a code editor for programming Γλώσσα in that is taught in the 3rd grade of senior high school in Greece.
+
+ - [Register_AI_Search](https://github.com/bill-chamal/Register_AI_Search): Breadth-first search, Depth-first search, Best-first search, A-Star search algorithms and AVL Trees implemented in C.
+
+ - [CarOps](https://github.com/CarOps-28/CarOps): A full functional Information System.
+
+
+## 🌱 What I'm Learning
+
+ - Currently enhancing my skills in android.
+ - Exploring blockchain tech.
+
+## 💬 Ask Me About
+
+ - Errors
+ - Computer Networks or cloud computing
+ - SQL
+ - Algorithms
+ - General Data Protection Regulation (GDPR) in EU
+
+## ⚡ Fun Fact
+
+When I'm not coding, you can find me reading law codes.

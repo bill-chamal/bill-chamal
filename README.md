@@ -2,7 +2,7 @@
 
 👋 **Hi there!** 
 
-I'm Bill, a passionate developer and technology enthusiast with a keen interest in Networking, security, desktop dev and android dev. I love diving into new challenges, learning cutting-edge technologies, and collaborating on exciting projects.
+I'm Bill, a passionate developer and technology enthusiast with a keen interest in developing apps. I love diving into new challenges, learning cutting-edge technologies, and collaborating on exciting projects.
 
 ## 🔭 What I'm Working On
 

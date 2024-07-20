@@ -59,6 +59,11 @@ When I'm not coding, you can find me reading law codes.
 ![Adobe Acrobat](https://img.shields.io/badge/Adobe%20Acrobat-EA3A40?style=for-the-badge&logo=adobeacrobat&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-0cb00f?style=for-the-badge&logo=adobeaudition&logoColor=white)
+![Microsoft SQL Server Management Studio](https://img.shields.io/badge/Microsoft%20SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Microsoft Project](https://img.shields.io/badge/Microsoft%20Project-0078D4?style=for-the-badge&logo=microsoftproject&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white)
+![OnlyOffice](https://img.shields.io/badge/OnlyOffice-00A3E0?style=for-the-badge&logo=onlyoffice&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
@@ -73,6 +78,17 @@ When I'm not coding, you can find me reading law codes.
 ![GHIDRA](https://img.shields.io/badge/GHIDRA-eb3528?style=for-the-badge&logo=ghidra&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![FreeCAD](https://img.shields.io/badge/FreeCAD-0052CC?style=for-the-badge&logo=freecad&logoColor=white)
+![Code::Blocks](https://img.shields.io/badge/Code%3A%3ABlocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white)
+![JetBrains IntelliJ](https://img.shields.io/badge/JetBrains%20IntelliJ%20IDEA-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+![ReSharper](https://img.shields.io/badge/ReSharper-000000?style=for-the-badge&logo=resharper&logoColor=white)
+![YouTrack](https://img.shields.io/badge/YouTrack-000000?style=for-the-badge&logo=youtrack&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Atlassian](https://img.shields.io/badge/Atlassian-003A70?style=for-the-badge&logo=atlassian&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 ## 💻 My Daily Work
 

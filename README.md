@@ -1,6 +1,6 @@
 ## About Me
 
-![GitHub Contributions](https://contrib.rocks/image?repo=bill-chamal/bill-chamal) 
+![GitHub Profile pic](https://contrib.rocks/image?repo=bill-chamal/bill-chamal) 
 ![Visitor Count](https://komarev.com/ghpvc/?username=bill-chamal&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/bill-chamal?label=Followers&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/bill-chamal?label=Stars&style=for-the-badge)
@@ -34,9 +34,10 @@ I'm Bill, a passionate developer and technology enthusiast with a keen interest 
 - ![Ask Me About](https://img.shields.io/badge/Ask%20Me%20About-GDPR-yellow?style=flat-square)
 - ![Ask Me About](https://img.shields.io/badge/Ask%20Me%20About-Arch%20Linux-blue?style=flat-square)
 
-## ⚡ Fun Fact
+## 🌟 Inspiring Quote
 
-When I'm not coding, you can find me reading law codes.
+> **"The skillful fighter puts himself into a position which makes defeat impossible, and does not miss the moment for defeating the enemy."**
+> — Sun Tzu
 
 ## 😛 My Programming Languages
 
@@ -88,6 +89,7 @@ When I'm not coding, you can find me reading law codes.
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Atlassian](https://img.shields.io/badge/Atlassian-003A70?style=for-the-badge&logo=atlassian&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-000000?style=for-the-badge&logo=visual-paradigm&logoColor=white)
 
 
 ## 💻 My Daily Work

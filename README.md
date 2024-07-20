@@ -7,7 +7,7 @@
 
 👋 **Hi there!**
 
-I'm Bill, a passionate developer and technology enthusiast with a keen interest in developing apps. I started using Unreal Engine when I was 15, and from that moment, I discovered and fell in love with programming, 3D modeling, animation, and computer science. I love diving into new challenges, learning cutting-edge technologies, and collaborating on exciting projects.
+I'm Bill, a passionate developer and technology enthusiast with a keen interest in developing apps. I started using Unreal Engine when I was 15, and from that moment, I discovered and fell in love with programming, 3D modeling, animation, and computer science. I love diving into new challenges, learning cutting-edge technologies, and collaborating on exciting projects. 
 
 <div align="center"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Animated GIF" width="300"></div>
 
@@ -90,6 +90,9 @@ I'm Bill, a passionate developer and technology enthusiast with a keen interest 
 ![Atlassian](https://img.shields.io/badge/Atlassian-003A70?style=for-the-badge&logo=atlassian&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-000000?style=for-the-badge&logo=visual-paradigm&logoColor=white)
+![Wolfram Mathematica](https://img.shields.io/badge/Wolfram%20Mathematica-DD1100?style=for-the-badge&logo=wolfram-mathematica&logoColor=white)
+![GeoGebra](https://img.shields.io/badge/GeoGebra-FF6F00?style=for-the-badge&logo=geogebra&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
 
 
 ## 💻 My Daily Work

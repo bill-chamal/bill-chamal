@@ -7,7 +7,7 @@
 
 👋 **Hi there!**
 
-I'm Bill, a passionate developer and technology enthusiast with a keen interest in developing apps. I started using Unreal Engine when I was 15, and from that moment, I discovered and fell in love with programming, 3D modeling, animation, and computer science. I love diving into new challenges, learning cutting-edge technologies, and collaborating on exciting projects. 
+ I'm <code>Bill</code>, a passionate developer and technology enthusiast with a keen interest in developing apps. I started using Unreal Engine when I was 15, and from that moment, I discovered and fell in love with programming, 3D modeling, animation, and computer science. I love diving into new challenges, learning cutting-edge technologies, and collaborating on exciting projects. 
 
 <div align="center"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Animated GIF" width="300"></div>
 

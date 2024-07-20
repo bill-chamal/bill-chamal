@@ -1,36 +1,38 @@
 ## About Me
 
-👋 **Hi there!**
-
-I'm Bill, a passionate developer and technology enthusiast with a keen interest in developing apps. I love diving into new challenges, learning cutting-edge technologies, and collaborating on exciting projects.
-
-<div align="center"><img  src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"></div>
-
+![GitHub Contributions](https://contrib.rocks/image?repo=bill-chamal/bill-chamal) 
 ![Visitor Count](https://komarev.com/ghpvc/?username=bill-chamal&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/bill-chamal?label=Followers&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/bill-chamal?label=Stars&style=for-the-badge)
 
+👋 **Hi there!**
+
+I'm Bill, a passionate developer and technology enthusiast with a keen interest in developing apps. I started using Unreal Engine when I was 15, and from that moment, I discovered and fell in love with programming, 3D modeling, animation, and computer science. I love diving into new challenges, learning cutting-edge technologies, and collaborating on exciting projects.
+
+<div align="center"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Animated GIF" width="300"></div>
+
 ## 🔭 What I'm Working On
 
- - [Hyprland Theme](https://github.com/bill-chamal/hyprland_theme_arch/): A collection of config files for the Hyprland theme on Arch Linux.
- - [ProjectGreen](https://github.com/bill-chamal/ProjectGreen): A recycling gamification and rewarding app.
- - [Glossa](https://github.com/bill-chamal/Glossa): Glossa is a code editor for programming Γλώσσα, which is taught in the 3rd grade of senior high school in Greece.
- - [Register_AI_Search](https://github.com/bill-chamal/Register_AI_Search): Implementations of Breadth-first search, Depth-first search, Best-first search, A-Star search algorithms, and AVL Trees in C.
- - [CarOps](https://github.com/CarOps-28/CarOps): A fully functional information system.
+- [Hyprland Theme](https://github.com/bill-chamal/hyprland_theme_arch/): A collection of config files for the Hyprland theme on Arch Linux.
+- [ProjectGreen](https://github.com/bill-chamal/ProjectGreen): A recycling gamification and rewarding app.
+- [Glossa](https://github.com/bill-chamal/Glossa): Glossa is a code editor for programming Γλώσσα, which is taught in the 3rd grade of senior high school in Greece.
+- [Register_AI_Search](https://github.com/bill-chamal/Register_AI_Search): Implementations of Breadth-first search, Depth-first search, Best-first search, A-Star search algorithms, and AVL Trees in C.
+- [CarOps](https://github.com/CarOps-28/CarOps): A fully functional information system.
 
 ## 🌱 What I'm Learning
 
- - Currently enhancing my skills in Android development <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXU5bmduamRlYmdzZDdidnpkcHE5Z3gwNm0ycXFwa3h1Z2Nobmh4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lmy23L3RkJ0sEWokRN/giphy.webp" width="20" height="20">.
- - Exploring blockchain technology.
+- Currently enhancing my skills in Android development <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXU5bmduamRlYmdzZDdidnpkcHE5Z3gwNm0ycXFwa3h1Z2Nobmh4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lmy23L3RkJ0sEWokRN/giphy.webp" width="20" height="20">
+- Exploring blockchain technology.
+- Exploring Linux.
 
 ## 💬 Ask Me About
 
- - ![Ask Me About](https://img.shields.io/badge/Ask%20Me%20About-Errors-green?style=flat-square)
- - ![Ask Me About](https://img.shields.io/badge/Ask%20Me%20About-Computer%20Networks-blue?style=flat-square)
- - ![Ask Me About](https://img.shields.io/badge/Ask%20Me%20About-SQL-orange?style=flat-square)
- - ![Ask Me About](https://img.shields.io/badge/Ask%20Me%20About-Algorithms-red?style=flat-square)
- - ![Ask Me About](https://img.shields.io/badge/Ask%20Me%20About-GDPR-yellow?style=flat-square)
- - ![Ask Me About](https://img.shields.io/badge/Ask%20Me%20About-Arch%20Linux-blue?style=flat-square)
+- ![Ask Me About](https://img.shields.io/badge/Ask%20Me%20About-Errors-green?style=flat-square)
+- ![Ask Me About](https://img.shields.io/badge/Ask%20Me%20About-Computer%20Networks-blue?style=flat-square)
+- ![Ask Me About](https://img.shields.io/badge/Ask%20Me%20About-SQL-orange?style=flat-square)
+- ![Ask Me About](https://img.shields.io/badge/Ask%20Me%20About-Algorithms-red?style=flat-square)
+- ![Ask Me About](https://img.shields.io/badge/Ask%20Me%20About-GDPR-yellow?style=flat-square)
+- ![Ask Me About](https://img.shields.io/badge/Ask%20Me%20About-Arch%20Linux-blue?style=flat-square)
 
 ## ⚡ Fun Fact
 
@@ -61,7 +63,7 @@ When I'm not coding, you can find me reading law codes.
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-4B4B4B?style=for-the-badge&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-4B4B4B?style=for-the-badge&logo=blackberry&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Houdini](https://img.shields.io/badge/Houdini-5D9CEC?style=for-the-badge&logo=sidefx&logoColor=white)
 ![Maxon C4D](https://img.shields.io/badge/Maxon%20C4D-2D2D2D?style=for-the-badge&logo=maxon&logoColor=white)
@@ -71,3 +73,11 @@ When I'm not coding, you can find me reading law codes.
 ![GHIDRA](https://img.shields.io/badge/GHIDRA-eb3528?style=for-the-badge&logo=ghidra&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![FreeCAD](https://img.shields.io/badge/FreeCAD-0052CC?style=for-the-badge&logo=freecad&logoColor=white)
+
+## 💻 My Daily Work
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bill-chamal&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bill-chamal&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bill-chamal&layout=compact&theme=tokyonight)

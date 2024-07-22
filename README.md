@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/bill-chamal?label=Followers&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/bill-chamal?label=Stars&style=for-the-badge)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bill-chamal&theme=onedark)](https://github.com/bill-chamal/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bill-chamal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 👋 Hi there!
 

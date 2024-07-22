@@ -1,11 +1,12 @@
 ## About Me
-
 ![GitHub Profile pic](https://contrib.rocks/image?repo=bill-chamal/bill-chamal) 
 ![Visitor Count](https://komarev.com/ghpvc/?username=bill-chamal&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/bill-chamal?label=Followers&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/bill-chamal?label=Stars&style=for-the-badge)
 
-👋 **Hi there!**
+[![trophy](https://github-profile-trophy.vercel.app/?username=bill-chamal&theme=onedark)](https://github.com/bill-chamal/github-profile-trophy)
+
+### 👋 Hi there!
 
  I'm <code>Bill</code>, a passionate developer and technology enthusiast with a keen interest in developing apps. I started using Unreal Engine when I was 15, and from that moment, I discovered and fell in love with programming, 3D modeling, animation, and computer science. I love diving into new challenges, learning cutting-edge technologies, and collaborating on exciting projects. 
 

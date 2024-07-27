@@ -24,7 +24,7 @@
 
 - Currently enhancing my skills in Android development <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXU5bmduamRlYmdzZDdidnpkcHE5Z3gwNm0ycXFwa3h1Z2Nobmh4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lmy23L3RkJ0sEWokRN/giphy.webp" width="20" height="20">
 - Exploring blockchain technology.
-- Exploring Linux.
+- Exploring Arch Linux.
 
 ## 💬 Ask Me About
 

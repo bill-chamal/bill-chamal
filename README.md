@@ -6,6 +6,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bill-chamal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="vasileios-sotirios-chamalidis" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://gr.linkedin.com/in/vasileios-sotirios-chamalidis?trk=profile-badge">BILL CHAMALIDIS</a></div>
+              
+
 ### 👋 Hi there!
 
  I'm <code>Bill</code>, a passionate developer and technology enthusiast with a keen interest in developing apps. I started using Unreal Engine when I was 15, and from that moment, I discovered and fell in love with programming, 3D modeling, animation, and computer science. I love diving into new challenges, learning cutting-edge technologies, and collaborating on exciting projects. 
@@ -107,3 +110,7 @@ Ich bin **Bill**, ein leidenschaftlicher Entwickler und Technologiebegeisterter 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bill-chamal&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bill-chamal&layout=compact&theme=tokyonight)
+
+## 📱 Contact Info:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://gr.linkedin.com/in/vasileios-sotirios-chamalidis?trk=profile-badge)

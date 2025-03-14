@@ -5,8 +5,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/bill-chamal?label=Stars&style=for-the-badge)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bill-chamal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="vasileios-sotirios-chamalidis" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://gr.linkedin.com/in/vasileios-sotirios-chamalidis?trk=profile-badge">BILL CHAMALIDIS</a></div>
               
 
 ### 👋 Hi there!
@@ -108,7 +106,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bill-chamal&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bill-chamal&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bill-chamal&layout=compact&theme=tokyonight)
 

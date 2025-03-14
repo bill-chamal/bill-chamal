@@ -13,9 +13,7 @@
 
  I'm <code>Bill</code>, a passionate developer and technology enthusiast with a keen interest in developing apps. I started using Unreal Engine when I was 15, and from that moment, I discovered and fell in love with programming, 3D modeling, animation, and computer science. I love diving into new challenges, learning cutting-edge technologies, and collaborating on exciting projects. 
 
-### <img src="https://upload.wikimedia.org/wikipedia/de/e/e3/Logo_der_Oesterreich_Werbung_ab_2013.svg" width="40" height="40"> Hallo!
 
-Ich bin **Bill**, ein leidenschaftlicher Entwickler und Technologiebegeisterter mit großem Interesse an der Entwicklung von Apps. Mit 15 Jahren habe ich angefangen, die Unreal Engine zu verwenden, und ab diesem Moment habe ich mich in Programmierung, 3D-Modellierung, Animation und Informatik verliebt. Ich liebe es, mich neuen Herausforderungen zu stellen, topmoderne Technologien zu erlernen und an aufregenden Projekten mitzuarbeiten.
 
 <div align="center"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Animated GIF" width="300"></div>
 

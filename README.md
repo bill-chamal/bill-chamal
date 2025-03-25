@@ -12,6 +12,8 @@
 I'm Bill, a dedicated software developer and technology enthusiast with a strong passion for building innovative applications. My journey into programming began with Unreal Engine, where I developed a deep appreciation for software development, 3D modeling, animation, and computer science. Since then, I've been committed to mastering new technologies, solving complex challenges, and pushing the boundaries of digital innovation. I thrive in dynamic environments, enjoy collaborating with like-minded professionals, and continuously seek opportunities to contribute to impactful projects.
 
 
+My web profile: https://chamalidis.netlify.app/
+
 
 <div align="center"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Animated GIF" width="300"></div>
 
@@ -59,6 +61,7 @@ I'm Bill, a dedicated software developer and technology enthusiast with a strong
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/react-4479A1?style=for-the-badge&logo=react&logoColor=white)
 
 ## 🛠️ Software I Use
 

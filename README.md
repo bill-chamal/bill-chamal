@@ -9,7 +9,7 @@
 
 ### 👋 Hi there!
 
- I'm <code>Bill</code>, a passionate developer and technology enthusiast with a keen interest in developing apps. I started using Unreal Engine when I was 15, and from that moment, I discovered and fell in love with programming, 3D modeling, animation, and computer science. I love diving into new challenges, learning cutting-edge technologies, and collaborating on exciting projects. 
+I'm Bill, a dedicated software developer and technology enthusiast with a strong passion for building innovative applications. My journey into programming began with Unreal Engine, where I developed a deep appreciation for software development, 3D modeling, animation, and computer science. Since then, I've been committed to mastering new technologies, solving complex challenges, and pushing the boundaries of digital innovation. I thrive in dynamic environments, enjoy collaborating with like-minded professionals, and continuously seek opportunities to contribute to impactful projects.
 
 
 
@@ -100,6 +100,7 @@
 ![Wolfram Mathematica](https://img.shields.io/badge/Wolfram%20Mathematica-DD1100?style=for-the-badge&logo=wolfram-mathematica&logoColor=white)
 ![GeoGebra](https://img.shields.io/badge/GeoGebra-FF6F00?style=for-the-badge&logo=geogebra&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 
 
 ## 💻 My Daily Work

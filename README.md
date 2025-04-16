@@ -63,7 +63,7 @@ My web profile: https://chamalidis.netlify.app/
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/react-4479A1?style=for-the-badge&logo=react&logoColor=white)
 
-## 🛠️ Software I Use
+## 🛠️ Software I Use (At least once)
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-26C0D3?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-3F4F8C?style=for-the-badge&logo=adobepremierepro&logoColor=white)

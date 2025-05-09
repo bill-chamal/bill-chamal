@@ -120,4 +120,4 @@ My web profile: https://chamalidis.netlify.app/
 
 ## 📱 Contact Info:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://gr.linkedin.com/in/vasileios-sotirios-chamalidis?trk=profile-badge)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vschamalidis/?trk=profile-badge)

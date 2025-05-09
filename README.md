@@ -62,8 +62,14 @@ My web profile: https://chamalidis.netlify.app/
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/react-4479A1?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 🛠️ Software I Use (At least once)
+## SQL
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+
+## 🛠️ Software I Use
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-26C0D3?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-3F4F8C?style=for-the-badge&logo=adobepremierepro&logoColor=white)
@@ -109,7 +115,6 @@ My web profile: https://chamalidis.netlify.app/
 ## 💻 My Daily Work
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bill-chamal&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
-
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bill-chamal&layout=compact&theme=tokyonight)
 
